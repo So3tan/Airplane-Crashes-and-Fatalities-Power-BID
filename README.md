@@ -5,6 +5,7 @@
 The dashboard helps users explore over 2,500 recorded flight crashes across more than a century of aviation history. With clear visualizations and filters, stakeholders can understand patterns in aviation accidents, including:
 
 
+
 **Tools**
 
 Power BI for visualization
@@ -14,6 +15,7 @@ DAX for calculated fields and metrics
 Bing Maps Integration for route mapping
 
 Combo Charts for overlaying crash and fatality trends
+
 
 
 **Key Insights**
